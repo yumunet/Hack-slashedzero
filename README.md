@@ -1,3 +1,7 @@
+# Hack-slashedzero
+
+Custom version of the [Hack typeface](https://github.com/source-foundry/Hack) with [forward slashed zero (u0030-forwardslash) glyphs](https://github.com/source-foundry/alt-hack/tree/master/glyphs/u0030-forwardslash).
+
 
 # Hack
 
